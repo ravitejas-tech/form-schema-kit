@@ -31,7 +31,7 @@ A simple application to interactively build a JSON Schema from a set of custom-d
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/your-org/questions-json-generator.git
+   git clone https://github.com/ravitejas-tech/questions-json-schema-generator.git
    cd questions-json-generator
    ```
 
