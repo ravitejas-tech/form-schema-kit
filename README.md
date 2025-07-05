@@ -1,6 +1,6 @@
 # Questions JSON Schema Generator
 
-A simple React + Vite application to interactively build a JSON Schema from a set of custom-defined questions. Use it to power dynamic form builders, surveys, quizzes, medical case files, exam papers, and more.
+A simple application to interactively build a JSON Schema from a set of custom-defined questions. Use it to power dynamic form builders, surveys, quizzes, medical case files, exam papers, and more.
 
 ## Features
 
